@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :red_heart
+### Boas vindas ao meu perfil 🩷
 Meu nome é Labelly
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
