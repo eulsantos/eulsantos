@@ -6,5 +6,6 @@ Meu nome é Labelly
   
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
   
-![descrição do GIF](https://media.tenor.com/NmX0M5INgygAAAAi/hello-kitty.gif)
 - Estou estudando na [Alura]([https://www.alura.com.br](https://cursos.alura.com.br/user/santos-labelly)
+  
+![descrição do GIF](https://media.tenor.com/NmX0M5INgygAAAAi/hello-kitty.gif) (https://media.tenor.com/_74LY7XKMqwAAAAi/sanrio-my-melody.gif)
